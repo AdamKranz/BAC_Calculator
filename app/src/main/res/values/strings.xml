@@ -2,4 +2,6 @@
     <string name="app_name">BAC_Calculator</string>
     <string name="title_activity_user_input">UserInput</string>
     <string name="title_activity_bac__caclulator">BAC_Caclulator</string>
+    <string name="drank_status">Sober</string>
+    <string name="BAC_Counter">0.000</string>
 </resources>
